@@ -1,4 +1,4 @@
-# yandextranslate
+# word-translate app
 
 > simple translator application 
 
