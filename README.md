@@ -2,6 +2,8 @@
 
 > simple translator application 
 
+![Test Image 7](https://github.com/Wander1ust/word-translate-app/blob/master/git.PNG)
+
 ## Build Setup
 
 ``` bash
